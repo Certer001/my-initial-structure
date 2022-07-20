@@ -1,0 +1,2 @@
+# my-initial-structure
+структура
